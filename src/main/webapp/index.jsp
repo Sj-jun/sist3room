@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>JSP - Hello World</title>
+    <h2>Git 연습</h2>
 </head>
 <body>
 <h1>카카오맵 연습

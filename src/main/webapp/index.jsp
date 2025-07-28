@@ -11,6 +11,7 @@
 <div id="map" style="width:500px;height:400px;"></div>
 <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=c8c0fa412906334ef5c3b96f12f6d043"></script>
 <script>
+    // 지금 브렌치는 마이클이 작성하고 있는 내용
     var container = document.getElementById('map');
     var options = {
         center: new kakao.maps.LatLng(37.499333, 127.033162),
